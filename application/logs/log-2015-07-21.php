@@ -3148,3 +3148,204 @@ INFO - 2015-07-21 12:17:40 --> File loaded: C:\wamp\www\CodeIgniter_3.0\applicat
 INFO - 2015-07-21 12:17:40 --> File loaded: C:\wamp\www\CodeIgniter_3.0\application\views\posts_view.php
 INFO - 2015-07-21 12:17:41 --> Final output sent to browser
 DEBUG - 2015-07-21 12:17:41 --> Total execution time: 0.7220
+INFO - 2015-07-21 12:27:05 --> Config Class Initialized
+INFO - 2015-07-21 12:27:06 --> Hooks Class Initialized
+DEBUG - 2015-07-21 12:27:06 --> UTF-8 Support Enabled
+INFO - 2015-07-21 12:27:06 --> Utf8 Class Initialized
+INFO - 2015-07-21 12:27:06 --> URI Class Initialized
+INFO - 2015-07-21 12:27:06 --> Router Class Initialized
+INFO - 2015-07-21 12:27:06 --> Output Class Initialized
+INFO - 2015-07-21 12:27:06 --> Security Class Initialized
+DEBUG - 2015-07-21 12:27:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-07-21 12:27:06 --> Input Class Initialized
+INFO - 2015-07-21 12:27:06 --> Language Class Initialized
+INFO - 2015-07-21 12:27:06 --> Loader Class Initialized
+INFO - 2015-07-21 12:27:06 --> Database Driver Class Initialized
+INFO - 2015-07-21 12:27:06 --> Session: Class initialized using 'files' driver.
+INFO - 2015-07-21 12:27:06 --> Controller Class Initialized
+INFO - 2015-07-21 12:27:06 --> Helper loaded: form_helper
+INFO - 2015-07-21 12:27:06 --> Helper loaded: url_helper
+INFO - 2015-07-21 12:27:06 --> Form Validation Class Initialized
+INFO - 2015-07-21 12:27:06 --> File loaded: C:\wamp\www\CodeIgniter_3.0\application\views\user.php
+INFO - 2015-07-21 12:27:06 --> Final output sent to browser
+DEBUG - 2015-07-21 12:27:06 --> Total execution time: 0.3808
+INFO - 2015-07-21 12:27:10 --> Config Class Initialized
+INFO - 2015-07-21 12:27:10 --> Hooks Class Initialized
+DEBUG - 2015-07-21 12:27:10 --> UTF-8 Support Enabled
+INFO - 2015-07-21 12:27:10 --> Utf8 Class Initialized
+INFO - 2015-07-21 12:27:10 --> URI Class Initialized
+INFO - 2015-07-21 12:27:10 --> Router Class Initialized
+INFO - 2015-07-21 12:27:10 --> Output Class Initialized
+INFO - 2015-07-21 12:27:10 --> Security Class Initialized
+DEBUG - 2015-07-21 12:27:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-07-21 12:27:10 --> Input Class Initialized
+INFO - 2015-07-21 12:27:10 --> Language Class Initialized
+INFO - 2015-07-21 12:27:10 --> Loader Class Initialized
+INFO - 2015-07-21 12:27:10 --> Database Driver Class Initialized
+INFO - 2015-07-21 12:27:10 --> Session: Class initialized using 'files' driver.
+INFO - 2015-07-21 12:27:10 --> Controller Class Initialized
+INFO - 2015-07-21 12:27:10 --> Helper loaded: form_helper
+INFO - 2015-07-21 12:27:10 --> Helper loaded: url_helper
+INFO - 2015-07-21 12:27:10 --> Form Validation Class Initialized
+ERROR - 2015-07-21 12:27:10 --> Query error: Table 'fb.tbl_users' doesn't exist - Invalid query: SELECT *
+FROM `tbl_users`
+WHERE `email` = 'tolapheng99@gmail.com'
+ LIMIT 1
+INFO - 2015-07-21 12:27:10 --> Language file loaded: language/english/db_lang.php
+INFO - 2015-07-21 12:27:16 --> Config Class Initialized
+INFO - 2015-07-21 12:27:16 --> Hooks Class Initialized
+DEBUG - 2015-07-21 12:27:16 --> UTF-8 Support Enabled
+INFO - 2015-07-21 12:27:16 --> Utf8 Class Initialized
+INFO - 2015-07-21 12:27:16 --> URI Class Initialized
+INFO - 2015-07-21 12:27:16 --> Router Class Initialized
+INFO - 2015-07-21 12:27:16 --> Output Class Initialized
+INFO - 2015-07-21 12:27:16 --> Security Class Initialized
+DEBUG - 2015-07-21 12:27:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-07-21 12:27:16 --> Input Class Initialized
+INFO - 2015-07-21 12:27:16 --> Language Class Initialized
+INFO - 2015-07-21 12:27:16 --> Loader Class Initialized
+INFO - 2015-07-21 12:27:16 --> Database Driver Class Initialized
+INFO - 2015-07-21 12:27:16 --> Session: Class initialized using 'files' driver.
+INFO - 2015-07-21 12:27:16 --> Controller Class Initialized
+INFO - 2015-07-21 12:27:16 --> Helper loaded: form_helper
+INFO - 2015-07-21 12:27:16 --> Helper loaded: url_helper
+INFO - 2015-07-21 12:27:16 --> Form Validation Class Initialized
+ERROR - 2015-07-21 12:27:16 --> Query error: Table 'fb.tbl_users' doesn't exist - Invalid query: SELECT *
+FROM `tbl_users`
+WHERE `email` = 'tolapheng99@gmail.com'
+ LIMIT 1
+INFO - 2015-07-21 12:27:16 --> Language file loaded: language/english/db_lang.php
+INFO - 2015-07-21 12:27:34 --> Config Class Initialized
+INFO - 2015-07-21 12:27:34 --> Hooks Class Initialized
+DEBUG - 2015-07-21 12:27:34 --> UTF-8 Support Enabled
+INFO - 2015-07-21 12:27:34 --> Utf8 Class Initialized
+INFO - 2015-07-21 12:27:34 --> URI Class Initialized
+INFO - 2015-07-21 12:27:34 --> Router Class Initialized
+INFO - 2015-07-21 12:27:34 --> Output Class Initialized
+INFO - 2015-07-21 12:27:34 --> Security Class Initialized
+DEBUG - 2015-07-21 12:27:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-07-21 12:27:34 --> Input Class Initialized
+INFO - 2015-07-21 12:27:34 --> Language Class Initialized
+INFO - 2015-07-21 12:27:34 --> Loader Class Initialized
+INFO - 2015-07-21 12:27:34 --> Database Driver Class Initialized
+INFO - 2015-07-21 12:27:34 --> Session: Class initialized using 'files' driver.
+INFO - 2015-07-21 12:27:34 --> Controller Class Initialized
+INFO - 2015-07-21 12:27:34 --> Helper loaded: form_helper
+INFO - 2015-07-21 12:27:34 --> Helper loaded: url_helper
+INFO - 2015-07-21 12:27:34 --> Form Validation Class Initialized
+ERROR - 2015-07-21 12:27:34 --> Query error: Table 'fb.tbl_users' doesn't exist - Invalid query: SELECT *
+FROM `tbl_users`
+WHERE `email` = 'tolapheng99@gmail.com'
+ LIMIT 1
+INFO - 2015-07-21 12:27:34 --> Language file loaded: language/english/db_lang.php
+INFO - 2015-07-21 12:27:36 --> Config Class Initialized
+INFO - 2015-07-21 12:27:36 --> Hooks Class Initialized
+DEBUG - 2015-07-21 12:27:36 --> UTF-8 Support Enabled
+INFO - 2015-07-21 12:27:36 --> Utf8 Class Initialized
+INFO - 2015-07-21 12:27:36 --> URI Class Initialized
+INFO - 2015-07-21 12:27:36 --> Router Class Initialized
+INFO - 2015-07-21 12:27:36 --> Output Class Initialized
+INFO - 2015-07-21 12:27:36 --> Security Class Initialized
+DEBUG - 2015-07-21 12:27:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-07-21 12:27:36 --> Input Class Initialized
+INFO - 2015-07-21 12:27:36 --> Language Class Initialized
+INFO - 2015-07-21 12:27:36 --> Loader Class Initialized
+INFO - 2015-07-21 12:27:36 --> Database Driver Class Initialized
+INFO - 2015-07-21 12:27:36 --> Session: Class initialized using 'files' driver.
+INFO - 2015-07-21 12:27:36 --> Controller Class Initialized
+INFO - 2015-07-21 12:27:36 --> Helper loaded: form_helper
+INFO - 2015-07-21 12:27:36 --> Helper loaded: url_helper
+INFO - 2015-07-21 12:27:36 --> Form Validation Class Initialized
+ERROR - 2015-07-21 12:27:36 --> Query error: Table 'fb.tbl_users' doesn't exist - Invalid query: SELECT *
+FROM `tbl_users`
+WHERE `email` = 'tolapheng99@gmail.com'
+ LIMIT 1
+INFO - 2015-07-21 12:27:36 --> Language file loaded: language/english/db_lang.php
+INFO - 2015-07-21 12:28:01 --> Config Class Initialized
+INFO - 2015-07-21 12:28:01 --> Hooks Class Initialized
+DEBUG - 2015-07-21 12:28:01 --> UTF-8 Support Enabled
+INFO - 2015-07-21 12:28:02 --> Utf8 Class Initialized
+INFO - 2015-07-21 12:28:02 --> URI Class Initialized
+INFO - 2015-07-21 12:28:02 --> Router Class Initialized
+INFO - 2015-07-21 12:28:02 --> Output Class Initialized
+INFO - 2015-07-21 12:28:02 --> Security Class Initialized
+DEBUG - 2015-07-21 12:28:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-07-21 12:28:02 --> Input Class Initialized
+INFO - 2015-07-21 12:28:02 --> Language Class Initialized
+INFO - 2015-07-21 12:28:02 --> Loader Class Initialized
+INFO - 2015-07-21 12:28:02 --> Database Driver Class Initialized
+INFO - 2015-07-21 12:28:02 --> Session: Class initialized using 'files' driver.
+INFO - 2015-07-21 12:28:02 --> Controller Class Initialized
+INFO - 2015-07-21 12:28:02 --> Helper loaded: form_helper
+INFO - 2015-07-21 12:28:02 --> Helper loaded: url_helper
+INFO - 2015-07-21 12:28:02 --> Form Validation Class Initialized
+ERROR - 2015-07-21 12:28:02 --> Query error: Table 'fb.tbl_users' doesn't exist - Invalid query: SELECT *
+FROM `tbl_users`
+WHERE `email` = 'tolapheng99@gmsdfsdf'
+ LIMIT 1
+INFO - 2015-07-21 12:28:02 --> Language file loaded: language/english/db_lang.php
+INFO - 2015-07-21 12:28:32 --> Config Class Initialized
+INFO - 2015-07-21 12:28:32 --> Hooks Class Initialized
+DEBUG - 2015-07-21 12:28:32 --> UTF-8 Support Enabled
+INFO - 2015-07-21 12:28:32 --> Utf8 Class Initialized
+INFO - 2015-07-21 12:28:32 --> URI Class Initialized
+INFO - 2015-07-21 12:28:32 --> Router Class Initialized
+INFO - 2015-07-21 12:28:32 --> Output Class Initialized
+INFO - 2015-07-21 12:28:32 --> Security Class Initialized
+DEBUG - 2015-07-21 12:28:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-07-21 12:28:32 --> Input Class Initialized
+INFO - 2015-07-21 12:28:32 --> Language Class Initialized
+INFO - 2015-07-21 12:28:32 --> Loader Class Initialized
+INFO - 2015-07-21 12:28:32 --> Database Driver Class Initialized
+INFO - 2015-07-21 12:28:32 --> Session: Class initialized using 'files' driver.
+INFO - 2015-07-21 12:28:32 --> Controller Class Initialized
+INFO - 2015-07-21 12:28:32 --> Helper loaded: form_helper
+INFO - 2015-07-21 12:28:32 --> Helper loaded: url_helper
+INFO - 2015-07-21 12:28:32 --> Form Validation Class Initialized
+INFO - 2015-07-21 12:28:32 --> File loaded: C:\wamp\www\CodeIgniter_3.0\application\views\user.php
+INFO - 2015-07-21 12:28:32 --> Final output sent to browser
+DEBUG - 2015-07-21 12:28:32 --> Total execution time: 0.2306
+INFO - 2015-07-21 12:28:44 --> Config Class Initialized
+INFO - 2015-07-21 12:28:44 --> Hooks Class Initialized
+DEBUG - 2015-07-21 12:28:44 --> UTF-8 Support Enabled
+INFO - 2015-07-21 12:28:44 --> Utf8 Class Initialized
+INFO - 2015-07-21 12:28:44 --> URI Class Initialized
+INFO - 2015-07-21 12:28:44 --> Router Class Initialized
+INFO - 2015-07-21 12:28:44 --> Output Class Initialized
+INFO - 2015-07-21 12:28:44 --> Security Class Initialized
+DEBUG - 2015-07-21 12:28:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-07-21 12:28:44 --> Input Class Initialized
+INFO - 2015-07-21 12:28:44 --> Language Class Initialized
+INFO - 2015-07-21 12:28:44 --> Loader Class Initialized
+INFO - 2015-07-21 12:28:44 --> Database Driver Class Initialized
+INFO - 2015-07-21 12:28:44 --> Session: Class initialized using 'files' driver.
+INFO - 2015-07-21 12:28:44 --> Controller Class Initialized
+INFO - 2015-07-21 12:28:44 --> Helper loaded: form_helper
+INFO - 2015-07-21 12:28:44 --> Helper loaded: url_helper
+INFO - 2015-07-21 12:28:44 --> Form Validation Class Initialized
+INFO - 2015-07-21 12:28:44 --> File loaded: C:\wamp\www\CodeIgniter_3.0\application\views\user.php
+INFO - 2015-07-21 12:28:44 --> Final output sent to browser
+DEBUG - 2015-07-21 12:28:44 --> Total execution time: 0.2489
+INFO - 2015-07-21 12:28:57 --> Config Class Initialized
+INFO - 2015-07-21 12:28:57 --> Hooks Class Initialized
+DEBUG - 2015-07-21 12:28:58 --> UTF-8 Support Enabled
+INFO - 2015-07-21 12:28:58 --> Utf8 Class Initialized
+INFO - 2015-07-21 12:28:58 --> URI Class Initialized
+INFO - 2015-07-21 12:28:58 --> Router Class Initialized
+INFO - 2015-07-21 12:28:58 --> Output Class Initialized
+INFO - 2015-07-21 12:28:58 --> Security Class Initialized
+DEBUG - 2015-07-21 12:28:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-07-21 12:28:58 --> Input Class Initialized
+INFO - 2015-07-21 12:28:58 --> Language Class Initialized
+INFO - 2015-07-21 12:28:58 --> Loader Class Initialized
+INFO - 2015-07-21 12:28:58 --> Database Driver Class Initialized
+INFO - 2015-07-21 12:28:58 --> Session: Class initialized using 'files' driver.
+INFO - 2015-07-21 12:28:58 --> Controller Class Initialized
+INFO - 2015-07-21 12:28:58 --> Helper loaded: form_helper
+INFO - 2015-07-21 12:28:58 --> Helper loaded: url_helper
+INFO - 2015-07-21 12:28:58 --> Form Validation Class Initialized
+ERROR - 2015-07-21 12:28:58 --> Query error: Table 'fb.tbl_users' doesn't exist - Invalid query: SELECT *
+FROM `tbl_users`
+WHERE `email` = 'darapenhchet@gmail.com'
+ LIMIT 1
+INFO - 2015-07-21 12:28:58 --> Language file loaded: language/english/db_lang.php
