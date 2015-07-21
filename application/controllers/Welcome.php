@@ -18,6 +18,12 @@ class Welcome extends CI_Controller {
 	 * map to /index.php/welcome/<method_name>
 	 * @see http://codeigniter.com/user_guide/general/urls.html
 	 */
+	function __Construct(){
+	  parent::__Construct ();
+	   $this->load->database(); // load database
+	   $this->load->model('PostModel'); // load model
+	}
+
 	public function index()
 	{
 		log_message('debug', 'WELCOME CONTROLLER...');
@@ -26,9 +32,10 @@ class Welcome extends CI_Controller {
 
 		$pdf= new mPDF();
         // data to views
-		$data = array();
+		//$data = array();
+		$this->data['posts'] = $this->PostModel->getPosts(); // calling Post model method getPosts()
 		//load the view and saved it into $html variable
-		$html = $this->load->view('pdf_output',$data,true);
+		$html = $this->load->view('posts_view', $this->data, true);
 		//this the the PDF filename that user will get to download
 		$pdfFilePath = "output_pdf_name.pdf";
 		//generate the PDF from the given html

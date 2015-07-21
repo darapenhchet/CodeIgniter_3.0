@@ -2497,3 +2497,654 @@ INFO - 2015-07-21 11:33:09 --> File loaded: C:\wamp\www\CodeIgniter-3.0.0\applic
 INFO - 2015-07-21 11:33:10 --> File loaded: C:\wamp\www\CodeIgniter-3.0.0\application\views\pdf_output.php
 INFO - 2015-07-21 11:33:10 --> Final output sent to browser
 DEBUG - 2015-07-21 11:33:10 --> Total execution time: 0.6435
+INFO - 2015-07-21 12:03:57 --> Config Class Initialized
+INFO - 2015-07-21 12:03:57 --> Hooks Class Initialized
+DEBUG - 2015-07-21 12:03:57 --> UTF-8 Support Enabled
+INFO - 2015-07-21 12:03:57 --> Utf8 Class Initialized
+INFO - 2015-07-21 12:03:57 --> URI Class Initialized
+DEBUG - 2015-07-21 12:03:57 --> No URI present. Default controller set.
+INFO - 2015-07-21 12:03:57 --> Router Class Initialized
+INFO - 2015-07-21 12:03:57 --> Output Class Initialized
+INFO - 2015-07-21 12:03:57 --> Security Class Initialized
+DEBUG - 2015-07-21 12:03:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-07-21 12:03:57 --> Input Class Initialized
+INFO - 2015-07-21 12:03:57 --> Language Class Initialized
+INFO - 2015-07-21 12:03:57 --> Loader Class Initialized
+INFO - 2015-07-21 12:03:57 --> Database Driver Class Initialized
+INFO - 2015-07-21 12:03:57 --> Session: Class initialized using 'files' driver.
+INFO - 2015-07-21 12:03:57 --> Controller Class Initialized
+DEBUG - 2015-07-21 12:03:57 --> WELCOME CONTROLLER...
+INFO - 2015-07-21 12:03:57 --> File loaded: C:\wamp\www\CodeIgniter_3.0\application\views\welcome_message.php
+INFO - 2015-07-21 12:03:58 --> File loaded: C:\wamp\www\CodeIgniter_3.0\application\views\pdf_output.php
+INFO - 2015-07-21 12:03:58 --> Final output sent to browser
+DEBUG - 2015-07-21 12:03:58 --> Total execution time: 0.8565
+INFO - 2015-07-21 12:04:13 --> Config Class Initialized
+INFO - 2015-07-21 12:04:13 --> Hooks Class Initialized
+DEBUG - 2015-07-21 12:04:13 --> UTF-8 Support Enabled
+INFO - 2015-07-21 12:04:13 --> Utf8 Class Initialized
+INFO - 2015-07-21 12:04:13 --> URI Class Initialized
+INFO - 2015-07-21 12:04:13 --> Router Class Initialized
+INFO - 2015-07-21 12:04:13 --> Output Class Initialized
+INFO - 2015-07-21 12:04:13 --> Security Class Initialized
+DEBUG - 2015-07-21 12:04:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-07-21 12:04:13 --> Input Class Initialized
+INFO - 2015-07-21 12:04:13 --> Language Class Initialized
+INFO - 2015-07-21 12:04:13 --> Loader Class Initialized
+INFO - 2015-07-21 12:04:13 --> Database Driver Class Initialized
+INFO - 2015-07-21 12:04:14 --> Session: Class initialized using 'files' driver.
+INFO - 2015-07-21 12:04:14 --> Controller Class Initialized
+INFO - 2015-07-21 12:04:14 --> Model Class Initialized
+INFO - 2015-07-21 12:04:14 --> Model Class Initialized
+ERROR - 2015-07-21 12:04:14 --> Query error: Table 'fb.post_tbl' doesn't exist - Invalid query: SELECT `post_id`, `post_title`, `post_content`
+FROM `post_tbl`
+INFO - 2015-07-21 12:04:14 --> Language file loaded: language/english/db_lang.php
+INFO - 2015-07-21 12:04:31 --> Config Class Initialized
+INFO - 2015-07-21 12:04:31 --> Hooks Class Initialized
+DEBUG - 2015-07-21 12:04:31 --> UTF-8 Support Enabled
+INFO - 2015-07-21 12:04:31 --> Utf8 Class Initialized
+INFO - 2015-07-21 12:04:31 --> URI Class Initialized
+INFO - 2015-07-21 12:04:31 --> Router Class Initialized
+INFO - 2015-07-21 12:04:31 --> Output Class Initialized
+INFO - 2015-07-21 12:04:31 --> Security Class Initialized
+DEBUG - 2015-07-21 12:04:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-07-21 12:04:31 --> Input Class Initialized
+INFO - 2015-07-21 12:04:31 --> Language Class Initialized
+INFO - 2015-07-21 12:04:31 --> Loader Class Initialized
+INFO - 2015-07-21 12:04:31 --> Database Driver Class Initialized
+INFO - 2015-07-21 12:04:31 --> Session: Class initialized using 'files' driver.
+INFO - 2015-07-21 12:04:31 --> Controller Class Initialized
+INFO - 2015-07-21 12:04:31 --> Model Class Initialized
+INFO - 2015-07-21 12:04:31 --> Model Class Initialized
+ERROR - 2015-07-21 12:04:31 --> Query error: Table 'fb.post_tbl' doesn't exist - Invalid query: SELECT `post_id`, `post_title`, `post_content`
+FROM `post_tbl`
+INFO - 2015-07-21 12:04:31 --> Language file loaded: language/english/db_lang.php
+INFO - 2015-07-21 12:08:21 --> Config Class Initialized
+INFO - 2015-07-21 12:08:21 --> Hooks Class Initialized
+DEBUG - 2015-07-21 12:08:22 --> UTF-8 Support Enabled
+INFO - 2015-07-21 12:08:22 --> Utf8 Class Initialized
+INFO - 2015-07-21 12:08:22 --> URI Class Initialized
+INFO - 2015-07-21 12:08:22 --> Router Class Initialized
+INFO - 2015-07-21 12:08:22 --> Output Class Initialized
+INFO - 2015-07-21 12:08:22 --> Security Class Initialized
+DEBUG - 2015-07-21 12:08:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-07-21 12:08:22 --> Input Class Initialized
+INFO - 2015-07-21 12:08:22 --> Language Class Initialized
+INFO - 2015-07-21 12:08:22 --> Loader Class Initialized
+INFO - 2015-07-21 12:08:22 --> Database Driver Class Initialized
+INFO - 2015-07-21 12:08:22 --> Session: Class initialized using 'files' driver.
+INFO - 2015-07-21 12:08:22 --> Controller Class Initialized
+INFO - 2015-07-21 12:08:22 --> Model Class Initialized
+INFO - 2015-07-21 12:08:22 --> Model Class Initialized
+INFO - 2015-07-21 12:08:22 --> Config Class Initialized
+INFO - 2015-07-21 12:08:22 --> Hooks Class Initialized
+DEBUG - 2015-07-21 12:08:22 --> UTF-8 Support Enabled
+INFO - 2015-07-21 12:08:22 --> Utf8 Class Initialized
+INFO - 2015-07-21 12:08:22 --> URI Class Initialized
+INFO - 2015-07-21 12:08:22 --> Router Class Initialized
+INFO - 2015-07-21 12:08:22 --> Output Class Initialized
+INFO - 2015-07-21 12:08:22 --> Security Class Initialized
+DEBUG - 2015-07-21 12:08:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-07-21 12:08:22 --> Input Class Initialized
+INFO - 2015-07-21 12:08:22 --> Language Class Initialized
+INFO - 2015-07-21 12:08:22 --> Loader Class Initialized
+INFO - 2015-07-21 12:08:22 --> Database Driver Class Initialized
+INFO - 2015-07-21 12:08:23 --> Config Class Initialized
+INFO - 2015-07-21 12:08:23 --> Hooks Class Initialized
+DEBUG - 2015-07-21 12:08:23 --> UTF-8 Support Enabled
+INFO - 2015-07-21 12:08:23 --> Session: Class initialized using 'files' driver.
+INFO - 2015-07-21 12:08:23 --> Utf8 Class Initialized
+INFO - 2015-07-21 12:08:23 --> Controller Class Initialized
+INFO - 2015-07-21 12:08:23 --> URI Class Initialized
+INFO - 2015-07-21 12:08:23 --> Router Class Initialized
+INFO - 2015-07-21 12:08:23 --> Model Class Initialized
+INFO - 2015-07-21 12:08:23 --> Output Class Initialized
+INFO - 2015-07-21 12:08:23 --> Model Class Initialized
+INFO - 2015-07-21 12:08:23 --> Security Class Initialized
+DEBUG - 2015-07-21 12:08:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-07-21 12:08:23 --> Input Class Initialized
+INFO - 2015-07-21 12:08:23 --> Language Class Initialized
+INFO - 2015-07-21 12:08:23 --> Loader Class Initialized
+INFO - 2015-07-21 12:08:23 --> Database Driver Class Initialized
+INFO - 2015-07-21 12:08:23 --> Config Class Initialized
+INFO - 2015-07-21 12:08:23 --> Session: Class initialized using 'files' driver.
+INFO - 2015-07-21 12:08:23 --> Hooks Class Initialized
+INFO - 2015-07-21 12:08:23 --> Controller Class Initialized
+INFO - 2015-07-21 12:08:23 --> Model Class Initialized
+DEBUG - 2015-07-21 12:08:23 --> UTF-8 Support Enabled
+INFO - 2015-07-21 12:08:23 --> Model Class Initialized
+INFO - 2015-07-21 12:08:23 --> Utf8 Class Initialized
+INFO - 2015-07-21 12:08:23 --> URI Class Initialized
+INFO - 2015-07-21 12:08:23 --> Router Class Initialized
+INFO - 2015-07-21 12:08:23 --> Output Class Initialized
+INFO - 2015-07-21 12:08:23 --> Security Class Initialized
+DEBUG - 2015-07-21 12:08:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-07-21 12:08:23 --> Input Class Initialized
+INFO - 2015-07-21 12:08:23 --> Language Class Initialized
+INFO - 2015-07-21 12:08:23 --> Loader Class Initialized
+INFO - 2015-07-21 12:08:23 --> Database Driver Class Initialized
+INFO - 2015-07-21 12:08:23 --> Session: Class initialized using 'files' driver.
+INFO - 2015-07-21 12:08:23 --> Controller Class Initialized
+INFO - 2015-07-21 12:08:23 --> Model Class Initialized
+INFO - 2015-07-21 12:08:23 --> Model Class Initialized
+INFO - 2015-07-21 12:08:23 --> Config Class Initialized
+INFO - 2015-07-21 12:08:23 --> Hooks Class Initialized
+DEBUG - 2015-07-21 12:08:23 --> UTF-8 Support Enabled
+INFO - 2015-07-21 12:08:23 --> Utf8 Class Initialized
+INFO - 2015-07-21 12:08:23 --> URI Class Initialized
+INFO - 2015-07-21 12:08:23 --> Router Class Initialized
+INFO - 2015-07-21 12:08:23 --> Output Class Initialized
+INFO - 2015-07-21 12:08:23 --> Security Class Initialized
+DEBUG - 2015-07-21 12:08:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-07-21 12:08:23 --> Input Class Initialized
+INFO - 2015-07-21 12:08:23 --> Language Class Initialized
+INFO - 2015-07-21 12:08:23 --> Loader Class Initialized
+INFO - 2015-07-21 12:08:23 --> Database Driver Class Initialized
+INFO - 2015-07-21 12:08:23 --> Session: Class initialized using 'files' driver.
+INFO - 2015-07-21 12:08:23 --> Controller Class Initialized
+INFO - 2015-07-21 12:08:23 --> Model Class Initialized
+INFO - 2015-07-21 12:08:23 --> Model Class Initialized
+INFO - 2015-07-21 12:09:31 --> Config Class Initialized
+INFO - 2015-07-21 12:09:31 --> Hooks Class Initialized
+DEBUG - 2015-07-21 12:09:31 --> UTF-8 Support Enabled
+INFO - 2015-07-21 12:09:31 --> Utf8 Class Initialized
+INFO - 2015-07-21 12:09:31 --> URI Class Initialized
+INFO - 2015-07-21 12:09:31 --> Router Class Initialized
+INFO - 2015-07-21 12:09:31 --> Output Class Initialized
+INFO - 2015-07-21 12:09:31 --> Security Class Initialized
+DEBUG - 2015-07-21 12:09:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-07-21 12:09:31 --> Input Class Initialized
+INFO - 2015-07-21 12:09:31 --> Language Class Initialized
+INFO - 2015-07-21 12:09:31 --> Loader Class Initialized
+INFO - 2015-07-21 12:09:31 --> Database Driver Class Initialized
+INFO - 2015-07-21 12:09:31 --> Session: Class initialized using 'files' driver.
+INFO - 2015-07-21 12:09:31 --> Controller Class Initialized
+INFO - 2015-07-21 12:09:32 --> Model Class Initialized
+INFO - 2015-07-21 12:09:32 --> Model Class Initialized
+ERROR - 2015-07-21 12:09:32 --> Severity: Notice --> Undefined property: stdClass::$post_title C:\wamp\www\CodeIgniter_3.0\application\views\posts_view.php 17
+INFO - 2015-07-21 12:09:32 --> File loaded: C:\wamp\www\CodeIgniter_3.0\application\views\posts_view.php
+INFO - 2015-07-21 12:09:32 --> Final output sent to browser
+DEBUG - 2015-07-21 12:09:32 --> Total execution time: 0.2145
+INFO - 2015-07-21 12:09:33 --> Config Class Initialized
+INFO - 2015-07-21 12:09:33 --> Hooks Class Initialized
+DEBUG - 2015-07-21 12:09:33 --> UTF-8 Support Enabled
+INFO - 2015-07-21 12:09:33 --> Utf8 Class Initialized
+INFO - 2015-07-21 12:09:33 --> URI Class Initialized
+INFO - 2015-07-21 12:09:33 --> Router Class Initialized
+INFO - 2015-07-21 12:09:33 --> Output Class Initialized
+INFO - 2015-07-21 12:09:33 --> Security Class Initialized
+DEBUG - 2015-07-21 12:09:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-07-21 12:09:33 --> Input Class Initialized
+INFO - 2015-07-21 12:09:33 --> Language Class Initialized
+INFO - 2015-07-21 12:09:33 --> Loader Class Initialized
+INFO - 2015-07-21 12:09:33 --> Database Driver Class Initialized
+INFO - 2015-07-21 12:09:33 --> Session: Class initialized using 'files' driver.
+INFO - 2015-07-21 12:09:33 --> Controller Class Initialized
+INFO - 2015-07-21 12:09:33 --> Model Class Initialized
+INFO - 2015-07-21 12:09:33 --> Model Class Initialized
+ERROR - 2015-07-21 12:09:33 --> Severity: Notice --> Undefined property: stdClass::$post_title C:\wamp\www\CodeIgniter_3.0\application\views\posts_view.php 17
+INFO - 2015-07-21 12:09:33 --> File loaded: C:\wamp\www\CodeIgniter_3.0\application\views\posts_view.php
+INFO - 2015-07-21 12:09:33 --> Final output sent to browser
+DEBUG - 2015-07-21 12:09:33 --> Total execution time: 0.2022
+INFO - 2015-07-21 12:09:33 --> Config Class Initialized
+INFO - 2015-07-21 12:09:33 --> Hooks Class Initialized
+DEBUG - 2015-07-21 12:09:33 --> UTF-8 Support Enabled
+INFO - 2015-07-21 12:09:33 --> Utf8 Class Initialized
+INFO - 2015-07-21 12:09:33 --> URI Class Initialized
+INFO - 2015-07-21 12:09:33 --> Router Class Initialized
+INFO - 2015-07-21 12:09:33 --> Output Class Initialized
+INFO - 2015-07-21 12:09:33 --> Security Class Initialized
+DEBUG - 2015-07-21 12:09:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-07-21 12:09:33 --> Input Class Initialized
+INFO - 2015-07-21 12:09:33 --> Language Class Initialized
+INFO - 2015-07-21 12:09:33 --> Loader Class Initialized
+INFO - 2015-07-21 12:09:33 --> Database Driver Class Initialized
+INFO - 2015-07-21 12:09:33 --> Session: Class initialized using 'files' driver.
+INFO - 2015-07-21 12:09:33 --> Controller Class Initialized
+INFO - 2015-07-21 12:09:33 --> Model Class Initialized
+INFO - 2015-07-21 12:09:33 --> Model Class Initialized
+ERROR - 2015-07-21 12:09:33 --> Severity: Notice --> Undefined property: stdClass::$post_title C:\wamp\www\CodeIgniter_3.0\application\views\posts_view.php 17
+INFO - 2015-07-21 12:09:33 --> File loaded: C:\wamp\www\CodeIgniter_3.0\application\views\posts_view.php
+INFO - 2015-07-21 12:09:33 --> Final output sent to browser
+DEBUG - 2015-07-21 12:09:33 --> Total execution time: 0.1894
+INFO - 2015-07-21 12:09:50 --> Config Class Initialized
+INFO - 2015-07-21 12:09:50 --> Hooks Class Initialized
+DEBUG - 2015-07-21 12:09:50 --> UTF-8 Support Enabled
+INFO - 2015-07-21 12:09:50 --> Utf8 Class Initialized
+INFO - 2015-07-21 12:09:50 --> URI Class Initialized
+INFO - 2015-07-21 12:09:50 --> Router Class Initialized
+INFO - 2015-07-21 12:09:50 --> Output Class Initialized
+INFO - 2015-07-21 12:09:50 --> Security Class Initialized
+DEBUG - 2015-07-21 12:09:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-07-21 12:09:50 --> Input Class Initialized
+INFO - 2015-07-21 12:09:50 --> Language Class Initialized
+INFO - 2015-07-21 12:09:50 --> Loader Class Initialized
+INFO - 2015-07-21 12:09:50 --> Database Driver Class Initialized
+INFO - 2015-07-21 12:09:50 --> Session: Class initialized using 'files' driver.
+INFO - 2015-07-21 12:09:50 --> Controller Class Initialized
+INFO - 2015-07-21 12:09:50 --> Model Class Initialized
+INFO - 2015-07-21 12:09:50 --> Model Class Initialized
+INFO - 2015-07-21 12:09:50 --> File loaded: C:\wamp\www\CodeIgniter_3.0\application\views\posts_view.php
+INFO - 2015-07-21 12:09:50 --> Final output sent to browser
+DEBUG - 2015-07-21 12:09:50 --> Total execution time: 0.2088
+INFO - 2015-07-21 12:09:51 --> Config Class Initialized
+INFO - 2015-07-21 12:09:51 --> Hooks Class Initialized
+DEBUG - 2015-07-21 12:09:51 --> UTF-8 Support Enabled
+INFO - 2015-07-21 12:09:51 --> Utf8 Class Initialized
+INFO - 2015-07-21 12:09:51 --> URI Class Initialized
+INFO - 2015-07-21 12:09:51 --> Router Class Initialized
+INFO - 2015-07-21 12:09:51 --> Output Class Initialized
+INFO - 2015-07-21 12:09:51 --> Security Class Initialized
+DEBUG - 2015-07-21 12:09:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-07-21 12:09:51 --> Input Class Initialized
+INFO - 2015-07-21 12:09:51 --> Language Class Initialized
+INFO - 2015-07-21 12:09:51 --> Loader Class Initialized
+INFO - 2015-07-21 12:09:51 --> Database Driver Class Initialized
+INFO - 2015-07-21 12:09:51 --> Session: Class initialized using 'files' driver.
+INFO - 2015-07-21 12:09:51 --> Controller Class Initialized
+INFO - 2015-07-21 12:09:51 --> Model Class Initialized
+INFO - 2015-07-21 12:09:51 --> Model Class Initialized
+INFO - 2015-07-21 12:09:51 --> File loaded: C:\wamp\www\CodeIgniter_3.0\application\views\posts_view.php
+INFO - 2015-07-21 12:09:51 --> Final output sent to browser
+DEBUG - 2015-07-21 12:09:51 --> Total execution time: 0.2065
+INFO - 2015-07-21 12:12:49 --> Config Class Initialized
+INFO - 2015-07-21 12:12:49 --> Hooks Class Initialized
+DEBUG - 2015-07-21 12:12:49 --> UTF-8 Support Enabled
+INFO - 2015-07-21 12:12:49 --> Utf8 Class Initialized
+INFO - 2015-07-21 12:12:49 --> URI Class Initialized
+INFO - 2015-07-21 12:12:49 --> Router Class Initialized
+INFO - 2015-07-21 12:12:49 --> Output Class Initialized
+INFO - 2015-07-21 12:12:49 --> Security Class Initialized
+DEBUG - 2015-07-21 12:12:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-07-21 12:12:49 --> Input Class Initialized
+INFO - 2015-07-21 12:12:49 --> Language Class Initialized
+INFO - 2015-07-21 12:12:49 --> Loader Class Initialized
+INFO - 2015-07-21 12:12:49 --> Database Driver Class Initialized
+INFO - 2015-07-21 12:12:49 --> Session: Class initialized using 'files' driver.
+INFO - 2015-07-21 12:12:49 --> Controller Class Initialized
+INFO - 2015-07-21 12:12:49 --> Model Class Initialized
+INFO - 2015-07-21 12:12:49 --> Model Class Initialized
+INFO - 2015-07-21 12:12:49 --> File loaded: C:\wamp\www\CodeIgniter_3.0\application\views\posts_view.php
+INFO - 2015-07-21 12:12:49 --> Final output sent to browser
+DEBUG - 2015-07-21 12:12:49 --> Total execution time: 0.2023
+INFO - 2015-07-21 12:12:51 --> Config Class Initialized
+INFO - 2015-07-21 12:12:51 --> Hooks Class Initialized
+DEBUG - 2015-07-21 12:12:51 --> UTF-8 Support Enabled
+INFO - 2015-07-21 12:12:51 --> Utf8 Class Initialized
+INFO - 2015-07-21 12:12:51 --> URI Class Initialized
+INFO - 2015-07-21 12:12:51 --> Router Class Initialized
+INFO - 2015-07-21 12:12:51 --> Output Class Initialized
+INFO - 2015-07-21 12:12:51 --> Security Class Initialized
+DEBUG - 2015-07-21 12:12:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-07-21 12:12:51 --> Input Class Initialized
+INFO - 2015-07-21 12:12:51 --> Language Class Initialized
+INFO - 2015-07-21 12:12:51 --> Loader Class Initialized
+INFO - 2015-07-21 12:12:51 --> Database Driver Class Initialized
+INFO - 2015-07-21 12:12:51 --> Session: Class initialized using 'files' driver.
+INFO - 2015-07-21 12:12:51 --> Controller Class Initialized
+INFO - 2015-07-21 12:12:51 --> Model Class Initialized
+INFO - 2015-07-21 12:12:51 --> Model Class Initialized
+INFO - 2015-07-21 12:12:51 --> File loaded: C:\wamp\www\CodeIgniter_3.0\application\views\posts_view.php
+INFO - 2015-07-21 12:12:51 --> Final output sent to browser
+DEBUG - 2015-07-21 12:12:51 --> Total execution time: 0.1887
+INFO - 2015-07-21 12:13:06 --> Config Class Initialized
+INFO - 2015-07-21 12:13:06 --> Hooks Class Initialized
+DEBUG - 2015-07-21 12:13:06 --> UTF-8 Support Enabled
+INFO - 2015-07-21 12:13:06 --> Utf8 Class Initialized
+INFO - 2015-07-21 12:13:06 --> URI Class Initialized
+INFO - 2015-07-21 12:13:06 --> Router Class Initialized
+INFO - 2015-07-21 12:13:06 --> Output Class Initialized
+INFO - 2015-07-21 12:13:06 --> Security Class Initialized
+DEBUG - 2015-07-21 12:13:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-07-21 12:13:06 --> Input Class Initialized
+INFO - 2015-07-21 12:13:06 --> Language Class Initialized
+INFO - 2015-07-21 12:13:06 --> Loader Class Initialized
+INFO - 2015-07-21 12:13:06 --> Database Driver Class Initialized
+INFO - 2015-07-21 12:13:06 --> Session: Class initialized using 'files' driver.
+INFO - 2015-07-21 12:13:06 --> Controller Class Initialized
+INFO - 2015-07-21 12:13:06 --> Model Class Initialized
+INFO - 2015-07-21 12:13:06 --> Model Class Initialized
+INFO - 2015-07-21 12:13:06 --> File loaded: C:\wamp\www\CodeIgniter_3.0\application\views\posts_view.php
+INFO - 2015-07-21 12:13:06 --> Final output sent to browser
+DEBUG - 2015-07-21 12:13:06 --> Total execution time: 0.2084
+INFO - 2015-07-21 12:13:07 --> Config Class Initialized
+INFO - 2015-07-21 12:13:07 --> Hooks Class Initialized
+DEBUG - 2015-07-21 12:13:07 --> UTF-8 Support Enabled
+INFO - 2015-07-21 12:13:07 --> Utf8 Class Initialized
+INFO - 2015-07-21 12:13:07 --> URI Class Initialized
+INFO - 2015-07-21 12:13:07 --> Router Class Initialized
+INFO - 2015-07-21 12:13:07 --> Output Class Initialized
+INFO - 2015-07-21 12:13:07 --> Security Class Initialized
+DEBUG - 2015-07-21 12:13:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-07-21 12:13:07 --> Input Class Initialized
+INFO - 2015-07-21 12:13:07 --> Language Class Initialized
+INFO - 2015-07-21 12:13:07 --> Loader Class Initialized
+INFO - 2015-07-21 12:13:07 --> Database Driver Class Initialized
+INFO - 2015-07-21 12:13:07 --> Session: Class initialized using 'files' driver.
+INFO - 2015-07-21 12:13:07 --> Controller Class Initialized
+INFO - 2015-07-21 12:13:07 --> Model Class Initialized
+INFO - 2015-07-21 12:13:07 --> Model Class Initialized
+INFO - 2015-07-21 12:13:07 --> File loaded: C:\wamp\www\CodeIgniter_3.0\application\views\posts_view.php
+INFO - 2015-07-21 12:13:07 --> Final output sent to browser
+DEBUG - 2015-07-21 12:13:07 --> Total execution time: 0.2184
+INFO - 2015-07-21 12:13:08 --> Config Class Initialized
+INFO - 2015-07-21 12:13:08 --> Hooks Class Initialized
+DEBUG - 2015-07-21 12:13:08 --> UTF-8 Support Enabled
+INFO - 2015-07-21 12:13:08 --> Utf8 Class Initialized
+INFO - 2015-07-21 12:13:08 --> URI Class Initialized
+INFO - 2015-07-21 12:13:08 --> Router Class Initialized
+INFO - 2015-07-21 12:13:08 --> Output Class Initialized
+INFO - 2015-07-21 12:13:08 --> Security Class Initialized
+DEBUG - 2015-07-21 12:13:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-07-21 12:13:08 --> Input Class Initialized
+INFO - 2015-07-21 12:13:08 --> Language Class Initialized
+INFO - 2015-07-21 12:13:08 --> Loader Class Initialized
+INFO - 2015-07-21 12:13:08 --> Database Driver Class Initialized
+INFO - 2015-07-21 12:13:08 --> Config Class Initialized
+INFO - 2015-07-21 12:13:08 --> Session: Class initialized using 'files' driver.
+INFO - 2015-07-21 12:13:08 --> Hooks Class Initialized
+INFO - 2015-07-21 12:13:08 --> Controller Class Initialized
+INFO - 2015-07-21 12:13:08 --> Model Class Initialized
+DEBUG - 2015-07-21 12:13:08 --> UTF-8 Support Enabled
+INFO - 2015-07-21 12:13:08 --> Model Class Initialized
+INFO - 2015-07-21 12:13:08 --> Utf8 Class Initialized
+INFO - 2015-07-21 12:13:08 --> URI Class Initialized
+INFO - 2015-07-21 12:13:08 --> File loaded: C:\wamp\www\CodeIgniter_3.0\application\views\posts_view.php
+INFO - 2015-07-21 12:13:08 --> Router Class Initialized
+INFO - 2015-07-21 12:13:08 --> Final output sent to browser
+INFO - 2015-07-21 12:13:08 --> Output Class Initialized
+DEBUG - 2015-07-21 12:13:08 --> Total execution time: 0.2630
+INFO - 2015-07-21 12:13:08 --> Security Class Initialized
+DEBUG - 2015-07-21 12:13:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-07-21 12:13:08 --> Input Class Initialized
+INFO - 2015-07-21 12:13:08 --> Language Class Initialized
+INFO - 2015-07-21 12:13:08 --> Loader Class Initialized
+INFO - 2015-07-21 12:13:08 --> Database Driver Class Initialized
+INFO - 2015-07-21 12:13:08 --> Session: Class initialized using 'files' driver.
+INFO - 2015-07-21 12:13:08 --> Controller Class Initialized
+INFO - 2015-07-21 12:13:08 --> Model Class Initialized
+INFO - 2015-07-21 12:13:08 --> Model Class Initialized
+INFO - 2015-07-21 12:13:08 --> File loaded: C:\wamp\www\CodeIgniter_3.0\application\views\posts_view.php
+INFO - 2015-07-21 12:13:08 --> Final output sent to browser
+DEBUG - 2015-07-21 12:13:08 --> Total execution time: 0.2517
+INFO - 2015-07-21 12:13:15 --> Config Class Initialized
+INFO - 2015-07-21 12:13:15 --> Hooks Class Initialized
+DEBUG - 2015-07-21 12:13:15 --> UTF-8 Support Enabled
+INFO - 2015-07-21 12:13:15 --> Utf8 Class Initialized
+INFO - 2015-07-21 12:13:15 --> URI Class Initialized
+INFO - 2015-07-21 12:13:15 --> Router Class Initialized
+INFO - 2015-07-21 12:13:15 --> Output Class Initialized
+INFO - 2015-07-21 12:13:15 --> Security Class Initialized
+DEBUG - 2015-07-21 12:13:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-07-21 12:13:15 --> Input Class Initialized
+INFO - 2015-07-21 12:13:15 --> Language Class Initialized
+INFO - 2015-07-21 12:13:15 --> Loader Class Initialized
+INFO - 2015-07-21 12:13:15 --> Database Driver Class Initialized
+INFO - 2015-07-21 12:13:15 --> Session: Class initialized using 'files' driver.
+INFO - 2015-07-21 12:13:15 --> Controller Class Initialized
+INFO - 2015-07-21 12:13:15 --> Model Class Initialized
+INFO - 2015-07-21 12:13:15 --> Model Class Initialized
+INFO - 2015-07-21 12:13:15 --> File loaded: C:\wamp\www\CodeIgniter_3.0\application\views\posts_view.php
+INFO - 2015-07-21 12:13:15 --> Final output sent to browser
+DEBUG - 2015-07-21 12:13:15 --> Total execution time: 0.2194
+INFO - 2015-07-21 12:13:32 --> Config Class Initialized
+INFO - 2015-07-21 12:13:32 --> Hooks Class Initialized
+DEBUG - 2015-07-21 12:13:32 --> UTF-8 Support Enabled
+INFO - 2015-07-21 12:13:32 --> Utf8 Class Initialized
+INFO - 2015-07-21 12:13:32 --> URI Class Initialized
+INFO - 2015-07-21 12:13:32 --> Router Class Initialized
+INFO - 2015-07-21 12:13:32 --> Output Class Initialized
+INFO - 2015-07-21 12:13:32 --> Security Class Initialized
+DEBUG - 2015-07-21 12:13:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-07-21 12:13:32 --> Input Class Initialized
+INFO - 2015-07-21 12:13:32 --> Language Class Initialized
+INFO - 2015-07-21 12:13:32 --> Loader Class Initialized
+INFO - 2015-07-21 12:13:32 --> Database Driver Class Initialized
+INFO - 2015-07-21 12:13:32 --> Session: Class initialized using 'files' driver.
+INFO - 2015-07-21 12:13:32 --> Controller Class Initialized
+INFO - 2015-07-21 12:13:32 --> Model Class Initialized
+INFO - 2015-07-21 12:13:32 --> Model Class Initialized
+INFO - 2015-07-21 12:13:33 --> File loaded: C:\wamp\www\CodeIgniter_3.0\application\views\posts_view.php
+INFO - 2015-07-21 12:13:33 --> Final output sent to browser
+DEBUG - 2015-07-21 12:13:33 --> Total execution time: 0.2067
+INFO - 2015-07-21 12:13:55 --> Config Class Initialized
+INFO - 2015-07-21 12:13:55 --> Hooks Class Initialized
+DEBUG - 2015-07-21 12:13:55 --> UTF-8 Support Enabled
+INFO - 2015-07-21 12:13:55 --> Utf8 Class Initialized
+INFO - 2015-07-21 12:13:55 --> URI Class Initialized
+INFO - 2015-07-21 12:13:55 --> Router Class Initialized
+INFO - 2015-07-21 12:13:55 --> Output Class Initialized
+INFO - 2015-07-21 12:13:55 --> Security Class Initialized
+DEBUG - 2015-07-21 12:13:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-07-21 12:13:55 --> Input Class Initialized
+INFO - 2015-07-21 12:13:55 --> Language Class Initialized
+INFO - 2015-07-21 12:13:55 --> Loader Class Initialized
+INFO - 2015-07-21 12:13:55 --> Database Driver Class Initialized
+INFO - 2015-07-21 12:13:55 --> Session: Class initialized using 'files' driver.
+INFO - 2015-07-21 12:13:55 --> Controller Class Initialized
+INFO - 2015-07-21 12:13:55 --> Model Class Initialized
+INFO - 2015-07-21 12:13:55 --> Model Class Initialized
+INFO - 2015-07-21 12:13:55 --> File loaded: C:\wamp\www\CodeIgniter_3.0\application\views\posts_view.php
+INFO - 2015-07-21 12:13:55 --> Final output sent to browser
+DEBUG - 2015-07-21 12:13:55 --> Total execution time: 0.2396
+INFO - 2015-07-21 12:13:56 --> Config Class Initialized
+INFO - 2015-07-21 12:13:56 --> Hooks Class Initialized
+DEBUG - 2015-07-21 12:13:56 --> UTF-8 Support Enabled
+INFO - 2015-07-21 12:13:56 --> Utf8 Class Initialized
+INFO - 2015-07-21 12:13:56 --> URI Class Initialized
+INFO - 2015-07-21 12:13:57 --> Router Class Initialized
+INFO - 2015-07-21 12:13:57 --> Output Class Initialized
+INFO - 2015-07-21 12:13:57 --> Security Class Initialized
+DEBUG - 2015-07-21 12:13:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-07-21 12:13:57 --> Input Class Initialized
+INFO - 2015-07-21 12:13:57 --> Language Class Initialized
+INFO - 2015-07-21 12:13:57 --> Loader Class Initialized
+INFO - 2015-07-21 12:13:57 --> Database Driver Class Initialized
+INFO - 2015-07-21 12:13:57 --> Session: Class initialized using 'files' driver.
+INFO - 2015-07-21 12:13:57 --> Controller Class Initialized
+INFO - 2015-07-21 12:13:57 --> Model Class Initialized
+INFO - 2015-07-21 12:13:57 --> Model Class Initialized
+INFO - 2015-07-21 12:13:57 --> File loaded: C:\wamp\www\CodeIgniter_3.0\application\views\posts_view.php
+INFO - 2015-07-21 12:13:57 --> Final output sent to browser
+DEBUG - 2015-07-21 12:13:57 --> Total execution time: 0.2361
+INFO - 2015-07-21 12:13:57 --> Config Class Initialized
+INFO - 2015-07-21 12:13:57 --> Hooks Class Initialized
+DEBUG - 2015-07-21 12:13:57 --> UTF-8 Support Enabled
+INFO - 2015-07-21 12:13:57 --> Utf8 Class Initialized
+INFO - 2015-07-21 12:13:57 --> URI Class Initialized
+INFO - 2015-07-21 12:13:57 --> Router Class Initialized
+INFO - 2015-07-21 12:13:57 --> Output Class Initialized
+INFO - 2015-07-21 12:13:57 --> Security Class Initialized
+DEBUG - 2015-07-21 12:13:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-07-21 12:13:57 --> Input Class Initialized
+INFO - 2015-07-21 12:13:57 --> Language Class Initialized
+INFO - 2015-07-21 12:13:58 --> Loader Class Initialized
+INFO - 2015-07-21 12:13:58 --> Database Driver Class Initialized
+INFO - 2015-07-21 12:13:58 --> Session: Class initialized using 'files' driver.
+INFO - 2015-07-21 12:13:58 --> Controller Class Initialized
+INFO - 2015-07-21 12:13:58 --> Model Class Initialized
+INFO - 2015-07-21 12:13:58 --> Model Class Initialized
+INFO - 2015-07-21 12:13:58 --> File loaded: C:\wamp\www\CodeIgniter_3.0\application\views\posts_view.php
+INFO - 2015-07-21 12:13:58 --> Final output sent to browser
+DEBUG - 2015-07-21 12:13:58 --> Total execution time: 0.2211
+INFO - 2015-07-21 12:16:50 --> Config Class Initialized
+INFO - 2015-07-21 12:16:50 --> Hooks Class Initialized
+DEBUG - 2015-07-21 12:16:50 --> UTF-8 Support Enabled
+INFO - 2015-07-21 12:16:50 --> Utf8 Class Initialized
+INFO - 2015-07-21 12:16:50 --> URI Class Initialized
+INFO - 2015-07-21 12:16:50 --> Router Class Initialized
+INFO - 2015-07-21 12:16:50 --> Output Class Initialized
+INFO - 2015-07-21 12:16:50 --> Security Class Initialized
+DEBUG - 2015-07-21 12:16:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-07-21 12:16:50 --> Input Class Initialized
+INFO - 2015-07-21 12:16:50 --> Language Class Initialized
+INFO - 2015-07-21 12:16:50 --> Loader Class Initialized
+INFO - 2015-07-21 12:16:50 --> Database Driver Class Initialized
+INFO - 2015-07-21 12:16:50 --> Session: Class initialized using 'files' driver.
+INFO - 2015-07-21 12:16:50 --> Controller Class Initialized
+INFO - 2015-07-21 12:16:50 --> Model Class Initialized
+INFO - 2015-07-21 12:16:50 --> Model Class Initialized
+INFO - 2015-07-21 12:16:50 --> File loaded: C:\wamp\www\CodeIgniter_3.0\application\views\posts_view.php
+INFO - 2015-07-21 12:16:50 --> Final output sent to browser
+DEBUG - 2015-07-21 12:16:50 --> Total execution time: 0.2009
+INFO - 2015-07-21 12:16:52 --> Config Class Initialized
+INFO - 2015-07-21 12:16:52 --> Hooks Class Initialized
+DEBUG - 2015-07-21 12:16:52 --> UTF-8 Support Enabled
+INFO - 2015-07-21 12:16:52 --> Utf8 Class Initialized
+INFO - 2015-07-21 12:16:52 --> URI Class Initialized
+INFO - 2015-07-21 12:16:52 --> Router Class Initialized
+INFO - 2015-07-21 12:16:52 --> Output Class Initialized
+INFO - 2015-07-21 12:16:52 --> Security Class Initialized
+DEBUG - 2015-07-21 12:16:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-07-21 12:16:52 --> Input Class Initialized
+INFO - 2015-07-21 12:16:52 --> Language Class Initialized
+INFO - 2015-07-21 12:16:52 --> Loader Class Initialized
+INFO - 2015-07-21 12:16:52 --> Database Driver Class Initialized
+INFO - 2015-07-21 12:16:52 --> Session: Class initialized using 'files' driver.
+INFO - 2015-07-21 12:16:53 --> Controller Class Initialized
+INFO - 2015-07-21 12:16:53 --> Model Class Initialized
+INFO - 2015-07-21 12:16:53 --> Model Class Initialized
+INFO - 2015-07-21 12:16:53 --> Config Class Initialized
+INFO - 2015-07-21 12:16:53 --> File loaded: C:\wamp\www\CodeIgniter_3.0\application\views\posts_view.php
+INFO - 2015-07-21 12:16:53 --> Hooks Class Initialized
+DEBUG - 2015-07-21 12:16:53 --> UTF-8 Support Enabled
+INFO - 2015-07-21 12:16:53 --> Final output sent to browser
+INFO - 2015-07-21 12:16:53 --> Utf8 Class Initialized
+DEBUG - 2015-07-21 12:16:53 --> Total execution time: 0.2365
+INFO - 2015-07-21 12:16:53 --> URI Class Initialized
+INFO - 2015-07-21 12:16:53 --> Router Class Initialized
+INFO - 2015-07-21 12:16:53 --> Output Class Initialized
+INFO - 2015-07-21 12:16:53 --> Security Class Initialized
+DEBUG - 2015-07-21 12:16:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-07-21 12:16:53 --> Input Class Initialized
+INFO - 2015-07-21 12:16:53 --> Language Class Initialized
+INFO - 2015-07-21 12:16:53 --> Loader Class Initialized
+INFO - 2015-07-21 12:16:53 --> Database Driver Class Initialized
+INFO - 2015-07-21 12:16:53 --> Session: Class initialized using 'files' driver.
+INFO - 2015-07-21 12:16:53 --> Controller Class Initialized
+INFO - 2015-07-21 12:16:53 --> Model Class Initialized
+INFO - 2015-07-21 12:16:53 --> Config Class Initialized
+INFO - 2015-07-21 12:16:53 --> Model Class Initialized
+INFO - 2015-07-21 12:16:53 --> Hooks Class Initialized
+INFO - 2015-07-21 12:16:53 --> File loaded: C:\wamp\www\CodeIgniter_3.0\application\views\posts_view.php
+DEBUG - 2015-07-21 12:16:53 --> UTF-8 Support Enabled
+INFO - 2015-07-21 12:16:53 --> Final output sent to browser
+INFO - 2015-07-21 12:16:53 --> Utf8 Class Initialized
+DEBUG - 2015-07-21 12:16:53 --> Total execution time: 0.2220
+INFO - 2015-07-21 12:16:53 --> URI Class Initialized
+INFO - 2015-07-21 12:16:53 --> Router Class Initialized
+INFO - 2015-07-21 12:16:53 --> Output Class Initialized
+INFO - 2015-07-21 12:16:53 --> Security Class Initialized
+DEBUG - 2015-07-21 12:16:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-07-21 12:16:53 --> Input Class Initialized
+INFO - 2015-07-21 12:16:53 --> Language Class Initialized
+INFO - 2015-07-21 12:16:53 --> Loader Class Initialized
+INFO - 2015-07-21 12:16:53 --> Database Driver Class Initialized
+INFO - 2015-07-21 12:16:53 --> Session: Class initialized using 'files' driver.
+INFO - 2015-07-21 12:16:53 --> Controller Class Initialized
+INFO - 2015-07-21 12:16:53 --> Model Class Initialized
+INFO - 2015-07-21 12:16:53 --> Model Class Initialized
+INFO - 2015-07-21 12:16:53 --> File loaded: C:\wamp\www\CodeIgniter_3.0\application\views\posts_view.php
+INFO - 2015-07-21 12:16:53 --> Final output sent to browser
+DEBUG - 2015-07-21 12:16:53 --> Total execution time: 0.2136
+INFO - 2015-07-21 12:16:56 --> Config Class Initialized
+INFO - 2015-07-21 12:16:56 --> Hooks Class Initialized
+DEBUG - 2015-07-21 12:16:56 --> UTF-8 Support Enabled
+INFO - 2015-07-21 12:16:56 --> Utf8 Class Initialized
+INFO - 2015-07-21 12:16:56 --> URI Class Initialized
+DEBUG - 2015-07-21 12:16:56 --> No URI present. Default controller set.
+INFO - 2015-07-21 12:16:56 --> Router Class Initialized
+INFO - 2015-07-21 12:16:56 --> Output Class Initialized
+INFO - 2015-07-21 12:16:56 --> Security Class Initialized
+DEBUG - 2015-07-21 12:16:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-07-21 12:16:56 --> Input Class Initialized
+INFO - 2015-07-21 12:16:56 --> Language Class Initialized
+ERROR - 2015-07-21 12:16:56 --> Severity: Compile Error --> Cannot redeclare Welcome::index() C:\wamp\www\CodeIgniter_3.0\application\controllers\Welcome.php 32
+INFO - 2015-07-21 12:17:13 --> Config Class Initialized
+INFO - 2015-07-21 12:17:13 --> Hooks Class Initialized
+DEBUG - 2015-07-21 12:17:13 --> UTF-8 Support Enabled
+INFO - 2015-07-21 12:17:13 --> Utf8 Class Initialized
+INFO - 2015-07-21 12:17:13 --> URI Class Initialized
+DEBUG - 2015-07-21 12:17:13 --> No URI present. Default controller set.
+INFO - 2015-07-21 12:17:13 --> Router Class Initialized
+INFO - 2015-07-21 12:17:13 --> Output Class Initialized
+INFO - 2015-07-21 12:17:14 --> Security Class Initialized
+DEBUG - 2015-07-21 12:17:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-07-21 12:17:14 --> Input Class Initialized
+INFO - 2015-07-21 12:17:14 --> Language Class Initialized
+INFO - 2015-07-21 12:17:14 --> Loader Class Initialized
+INFO - 2015-07-21 12:17:14 --> Database Driver Class Initialized
+INFO - 2015-07-21 12:17:14 --> Session: Class initialized using 'files' driver.
+INFO - 2015-07-21 12:17:14 --> Controller Class Initialized
+INFO - 2015-07-21 12:17:14 --> Model Class Initialized
+INFO - 2015-07-21 12:17:14 --> Model Class Initialized
+DEBUG - 2015-07-21 12:17:14 --> WELCOME CONTROLLER...
+INFO - 2015-07-21 12:17:14 --> File loaded: C:\wamp\www\CodeIgniter_3.0\application\views\welcome_message.php
+INFO - 2015-07-21 12:17:14 --> File loaded: C:\wamp\www\CodeIgniter_3.0\application\views\posts_view.php
+INFO - 2015-07-21 12:17:14 --> Final output sent to browser
+DEBUG - 2015-07-21 12:17:14 --> Total execution time: 0.7752
+INFO - 2015-07-21 12:17:28 --> Config Class Initialized
+INFO - 2015-07-21 12:17:28 --> Hooks Class Initialized
+DEBUG - 2015-07-21 12:17:28 --> UTF-8 Support Enabled
+INFO - 2015-07-21 12:17:28 --> Utf8 Class Initialized
+INFO - 2015-07-21 12:17:28 --> URI Class Initialized
+DEBUG - 2015-07-21 12:17:28 --> No URI present. Default controller set.
+INFO - 2015-07-21 12:17:28 --> Router Class Initialized
+INFO - 2015-07-21 12:17:28 --> Output Class Initialized
+INFO - 2015-07-21 12:17:28 --> Security Class Initialized
+DEBUG - 2015-07-21 12:17:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-07-21 12:17:28 --> Input Class Initialized
+INFO - 2015-07-21 12:17:28 --> Language Class Initialized
+INFO - 2015-07-21 12:17:28 --> Loader Class Initialized
+INFO - 2015-07-21 12:17:28 --> Database Driver Class Initialized
+INFO - 2015-07-21 12:17:28 --> Session: Class initialized using 'files' driver.
+INFO - 2015-07-21 12:17:28 --> Controller Class Initialized
+INFO - 2015-07-21 12:17:28 --> Model Class Initialized
+INFO - 2015-07-21 12:17:28 --> Model Class Initialized
+DEBUG - 2015-07-21 12:17:28 --> WELCOME CONTROLLER...
+INFO - 2015-07-21 12:17:28 --> File loaded: C:\wamp\www\CodeIgniter_3.0\application\views\welcome_message.php
+INFO - 2015-07-21 12:17:28 --> File loaded: C:\wamp\www\CodeIgniter_3.0\application\views\posts_view.php
+INFO - 2015-07-21 12:17:29 --> Final output sent to browser
+DEBUG - 2015-07-21 12:17:29 --> Total execution time: 0.7146
+INFO - 2015-07-21 12:17:37 --> Config Class Initialized
+INFO - 2015-07-21 12:17:37 --> Hooks Class Initialized
+DEBUG - 2015-07-21 12:17:37 --> UTF-8 Support Enabled
+INFO - 2015-07-21 12:17:37 --> Utf8 Class Initialized
+INFO - 2015-07-21 12:17:37 --> URI Class Initialized
+INFO - 2015-07-21 12:17:37 --> Router Class Initialized
+INFO - 2015-07-21 12:17:37 --> Output Class Initialized
+INFO - 2015-07-21 12:17:37 --> Security Class Initialized
+DEBUG - 2015-07-21 12:17:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-07-21 12:17:37 --> Input Class Initialized
+INFO - 2015-07-21 12:17:37 --> Language Class Initialized
+INFO - 2015-07-21 12:17:37 --> Loader Class Initialized
+INFO - 2015-07-21 12:17:37 --> Database Driver Class Initialized
+INFO - 2015-07-21 12:17:37 --> Session: Class initialized using 'files' driver.
+INFO - 2015-07-21 12:17:37 --> Controller Class Initialized
+INFO - 2015-07-21 12:17:37 --> Model Class Initialized
+INFO - 2015-07-21 12:17:37 --> Model Class Initialized
+INFO - 2015-07-21 12:17:37 --> File loaded: C:\wamp\www\CodeIgniter_3.0\application\views\posts_view.php
+INFO - 2015-07-21 12:17:37 --> Final output sent to browser
+DEBUG - 2015-07-21 12:17:37 --> Total execution time: 0.2013
+INFO - 2015-07-21 12:17:40 --> Config Class Initialized
+INFO - 2015-07-21 12:17:40 --> Hooks Class Initialized
+DEBUG - 2015-07-21 12:17:40 --> UTF-8 Support Enabled
+INFO - 2015-07-21 12:17:40 --> Utf8 Class Initialized
+INFO - 2015-07-21 12:17:40 --> URI Class Initialized
+DEBUG - 2015-07-21 12:17:40 --> No URI present. Default controller set.
+INFO - 2015-07-21 12:17:40 --> Router Class Initialized
+INFO - 2015-07-21 12:17:40 --> Output Class Initialized
+INFO - 2015-07-21 12:17:40 --> Security Class Initialized
+DEBUG - 2015-07-21 12:17:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-07-21 12:17:40 --> Input Class Initialized
+INFO - 2015-07-21 12:17:40 --> Language Class Initialized
+INFO - 2015-07-21 12:17:40 --> Loader Class Initialized
+INFO - 2015-07-21 12:17:40 --> Database Driver Class Initialized
+INFO - 2015-07-21 12:17:40 --> Session: Class initialized using 'files' driver.
+INFO - 2015-07-21 12:17:40 --> Controller Class Initialized
+INFO - 2015-07-21 12:17:40 --> Model Class Initialized
+INFO - 2015-07-21 12:17:40 --> Model Class Initialized
+DEBUG - 2015-07-21 12:17:40 --> WELCOME CONTROLLER...
+INFO - 2015-07-21 12:17:40 --> File loaded: C:\wamp\www\CodeIgniter_3.0\application\views\welcome_message.php
+INFO - 2015-07-21 12:17:40 --> File loaded: C:\wamp\www\CodeIgniter_3.0\application\views\posts_view.php
+INFO - 2015-07-21 12:17:41 --> Final output sent to browser
+DEBUG - 2015-07-21 12:17:41 --> Total execution time: 0.7220
